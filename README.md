@@ -8,8 +8,8 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- I’m working as a Software Engineer and building large scale web applications.
+I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- I’m working as a Senior Software Engineer and building large scale web applications.
 - Adpat new technology in no time.
 
 #### :fire: My Stats :
